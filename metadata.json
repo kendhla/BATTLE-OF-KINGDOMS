@@ -1,0 +1,6 @@
+{
+  "name": "Battle of Kingdoms",
+  "description": "An educational medieval fantasy strategy game where kingdoms battle for dominance through knowledge, strategy, and team play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
